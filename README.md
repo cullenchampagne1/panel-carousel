@@ -1,4 +1,4 @@
-# Panel Carousel Production Code
+# Apple Sports Panel Carousel
 
 This directory contains a reusable and highly customizable SwiftUI Panel Carousel component, designed for dynamic content loading and adaptive UI. It leverages `UIViewControllerRepresentable` to integrate a custom `UIScrollView` and `UIPanGestureRecognizer` for advanced gesture handling and performance.
 
